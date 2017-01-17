@@ -1,0 +1,3 @@
+To use this sketch, you'll need to build the circuit for it. You can find images of the build [here on Imgur](http://imgur.com/a/g55vV).
+
+Once you have all that set up, you should be able to upload the sketch to your Arduino and play right away! It will automatically calibrate its sensitivity based on the light in the room, so if you move the goal to a new location, I recommend resetting the Arduino so it will re-calibrate.
